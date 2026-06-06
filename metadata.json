@@ -1,0 +1,6 @@
+{
+  "name": "Room Organizer",
+  "description": "Upload photos of your rooms and get AI-powered organization and decluttering suggestions.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
